@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
+// program for printing the pattern
 void main()
 {
 	int i=0,j=0;
